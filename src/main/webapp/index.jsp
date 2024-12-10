@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "hello world" %></h2>
+<h2><%= "Indrouction to problem solving." %></h2>
 </body>
 </html>
